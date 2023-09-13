@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Author: Arjun
+Author-email: 9525876040golukumar@gmail.com
+License: IIIT
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
